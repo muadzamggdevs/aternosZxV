@@ -1,0 +1,9 @@
+{
+	"ip":"subscribevanevgt.aternos.me",
+	"port": "00000",
+	"name": "namabot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
